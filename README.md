@@ -1,4 +1,4 @@
-# 🧠 SynapseOps
+# 🧠 Plant Mind
 
 > **AI-Powered Knowledge Management & Intelligent Document Analysis Platform**
 
