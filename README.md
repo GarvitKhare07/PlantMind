@@ -2,7 +2,7 @@
 
 > **AI-Powered Knowledge Management & Intelligent Document Analysis Platform**
 
-SynapseOps is an AI-powered platform that transforms static documents into an interactive knowledge workspace. Upload documents, chat with them using Retrieval-Augmented Generation (RAG), generate summaries and quizzes, and retrieve contextual insights through a modern, intuitive interface.
+Plant Mind is an AI-powered platform that transforms static documents into an interactive knowledge workspace. Upload documents, chat with them using Retrieval-Augmented Generation (RAG), generate summaries and quizzes, and retrieve contextual insights through a modern, intuitive interface.
 
 ---
 
